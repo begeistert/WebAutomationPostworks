@@ -22,13 +22,13 @@ codigo fuente de los mismos.
 ## Indice
 
 - [X] [Sesión 1 - Instalación y configuración de Selenium](Sesion%201)
-- [X] [Sesión 2 - Selenium Webdriver: Primeros Pasos](https://github.com/victorjair/bedupostwork/tree/master/Sesion%202)
-- [X] [Sesión 3 - Page Object Model (POM)](https://github.com/victorjair/bedupostwork/tree/master/Sesion%203)
-- [X] [Sesión 4 - Captura de Datos](https://github.com/victorjair/bedupostwork/tree/master/Sesion%204)
-- [X] [Sesión 5 - Selenium con Bases de Datos](https://github.com/victorjair/bedupostwork/tree/master/Sesion%205)
-- [X] [Sesión 6 - Selenium Grid](https://github.com/victorjair/bedupostwork/tree/master/Sesion%206)
-- [X] [Sesión 7 - Appium: Automatización móvil](https://github.com/victorjair/bedupostwork/tree/master/Sesion%207)
-- [X] [Sesión 8 - Appium: Primeros Pasos](https://github.com/victorjair/bedupostwork/tree/master/Sesion%207)
+- [X] [Sesión 2 - Selenium Webdriver: Primeros Pasos](Sesion%202)
+- [X] [Sesión 3 - Page Object Model (POM)](Sesion%203)
+- [X] [Sesión 4 - Captura de Datos](Sesion%204)
+- [X] [Sesión 5 - Selenium con Bases de Datos](Sesion%205)
+- [X] [Sesión 6 - Selenium Grid](Sesion%206)
+- [X] [Sesión 7 - Appium: Automatización móvil](Sesion%207)
+- [X] [Sesión 8 - Appium: Primeros Pasos](Sesion%207)
 
 
 ## Requerimientos

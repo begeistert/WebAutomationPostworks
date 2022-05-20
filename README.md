@@ -21,7 +21,7 @@ codigo fuente de los mismos.
 
 ## Indice
 
-- [X] [Sesión 1 - Instalación y configuración de Selenium](https://github.com/victorjair/bedupostwork/tree/master/Sesion%201)
+- [X] [Sesión 1 - Instalación y configuración de Selenium](Sesion%201)
 - [X] [Sesión 2 - Selenium Webdriver: Primeros Pasos](https://github.com/victorjair/bedupostwork/tree/master/Sesion%202)
 - [X] [Sesión 3 - Page Object Model (POM)](https://github.com/victorjair/bedupostwork/tree/master/Sesion%203)
 - [X] [Sesión 4 - Captura de Datos](https://github.com/victorjair/bedupostwork/tree/master/Sesion%204)

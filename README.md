@@ -28,7 +28,7 @@ codigo fuente de los mismos.
 - [X] [Sesión 5 - Selenium con Bases de Datos](Sesion%205)
 - [X] [Sesión 6 - Selenium Grid](Sesion%206)
 - [X] [Sesión 7 - Appium: Automatización móvil](Sesion%207)
-- [X] [Sesión 8 - Appium: Primeros Pasos](Sesion%207)
+- [X] [Sesión 8 - Appium: Primeros Pasos](Sesion%208)
 
 
 ## Requerimientos

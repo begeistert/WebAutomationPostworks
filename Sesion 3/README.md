@@ -52,6 +52,9 @@ Código Fuente : [source](https://github.com/begeistert/WebAutomationPostworks/r
 
 Diagrama : [diagram](https://github.com/begeistert/WebAutomationPostworks/blob/main/Sesion%203/Modulo05_Sesion_03.pdf)
 
+Capturas de Pantalla: [screenshots](https://github.com/begeistert/WebAutomationPostworks/blob/main/Sesion%203/Sesion03Postwork.docx)
+
+
 ## Licencia
 Distribuido bajo la licencia MIT. Consulte `LICENCE` para obtener más información.
 

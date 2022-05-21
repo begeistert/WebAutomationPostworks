@@ -33,6 +33,8 @@
 
 Código Fuente : [source](https://github.com/begeistert/WebAutomationPostworks/raw/main/Sesion%208/AppiumSesion08.zip)
 
+Capturas de Pantalla: [screenshots](https://github.com/begeistert/WebAutomationPostworks/blob/main/Sesion%208/Sesion08Postwork.docx)
+
 ## Licencia
 Distribuido bajo la licencia MIT. Consulte `LICENCE` para obtener más información.
 

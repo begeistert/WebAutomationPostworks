@@ -98,6 +98,8 @@ public class base
 
 Código Fuente : [source](https://github.com/begeistert/WebAutomationPostworks/raw/main/Sesion%204/Sesion04Modulo03Complemento.zip)
 
+Capturas de Pantalla: [screenshots](https://github.com/begeistert/WebAutomationPostworks/blob/main/Sesion%204/Sesion04Postwork.docx)
+
 
 ## Licencia
 Distribuido bajo la licencia MIT. Consulte `LICENCE` para obtener más información.

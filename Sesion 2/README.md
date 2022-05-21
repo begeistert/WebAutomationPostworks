@@ -41,7 +41,22 @@
 
 ### Resultados
 
-Código Fuente : [source](https://github.com/begeistert/WebAutomationPostworks/raw/main/Sesion%202/webautomationSesion02.zip)
+Codigo fuente : [source](https://github.com/begeistert/WebAutomationPostworks/raw/main/Sesion%202/webautomationSesion02.zip)
+
+Uso de `BeforeTest` y `AfterTest`
+<br />
+<p align="center">
+  <a>
+    <img src="https://github.com/begeistert/WebAutomationPostworks/raw/main/Sesion%202/Sesion_02_postwork_Before_after.png" alt="Logo">
+  </a>
+
+Uso de `try`/`catch`
+<br />
+<p align="center">
+  <a>
+    <img src="https://github.com/begeistert/WebAutomationPostworks/raw/main/Sesion%202/Sesion_02_postwork_try_catch.png" alt="Logo">
+  </a>
+
 
 ## Licencia
 Distribuido bajo la licencia MIT. Consulte `LICENCE` para obtener más información.

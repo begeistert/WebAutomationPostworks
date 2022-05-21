@@ -40,7 +40,9 @@ https://www.mercadolibre.com.mx/
 
 ### Resultados
 
-Aquí van los resultados
+Código Fuente : [source](https://github.com/begeistert/WebAutomationPostworks/raw/main/Sesion%201/webautomationSesion01.zip)
+
+Video de demostración : [video](https://github.com/begeistert/WebAutomationPostworks/raw/main/Sesion%201/PostWorkSesion01.mp4)
 
 
 ## Licencia
